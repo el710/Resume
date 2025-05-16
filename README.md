@@ -6,7 +6,7 @@ Backend developer with 15+ years of experience in Python (FastAPI, Django), C++,
 Passionate about scalable APIs, clean architecture, and high-load systems.  
 
 ### **Resume**  
-📄 [Download PDF](OlegKim_Backend_Developer_Resume.pdf)  
+📄 [Download PDF](KimOleg_Python_Backend_Developer_Resume.pdf)  
 
 ### **Skills**  
 `Python` `FastAPI` `Django` `SQL` `Docker` `STM32` `TCP/UDP`  
