@@ -2,7 +2,7 @@
 📍 Nizhny Novgorod | 📧 theel710@gmail.com | 📞 +7 930 716 77 36  
 
 ### **About Me**  
-Backend developer with 15+ years of experience in Python (FastAPI, Django), C++, and embedded systems.  
+Backend developer with 15+ years of experience.  C/C++, Python (FastAPI, Django) and embedded systems.  
 Passionate about scalable APIs, clean architecture, and high-load systems.  
 
 ### **Resume**  
